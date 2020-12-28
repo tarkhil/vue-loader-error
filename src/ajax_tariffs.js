@@ -3,7 +3,7 @@ import Vue from 'vue';
 //import CloseTariff from './components/CloseTariff.vue'
 
 var app = new Vue({
-//    store,
+    store,
     components: {
 //	CloseTariff
     },
