@@ -1,5 +1,5 @@
 import Vue from 'vue';
-//import store from './store';
+import store from './store';
 //import CloseTariff from './components/CloseTariff.vue'
 
 var app = new Vue({
