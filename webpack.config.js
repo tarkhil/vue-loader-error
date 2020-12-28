@@ -1,11 +1,11 @@
 const webpack = require('webpack');
-const path = require('path');
+const resolve = require('path').resolve;
 module.exports = {
     entry: {
 	/* bill_info: './src/BillInfo.vue', */
 	// ajax_info: './src/ajax_info.js',
 	// ajax_bill: './src/ajax_bill.js',
-	// ajax_tariffs: './src/ajax_tariffs.js',
+	ajax_tariffs: './src/ajax_tariffs.js',
 	// receipts: './src/receipts.js',
 	// monthly_unsent: './src/unsent.js',
 	// monthly_dashboard: './src/monthly_dashboard.js',
