@@ -1,0 +1,15 @@
+billing.yaml
+node_modules/
+*~
+public/assets/js/060b2710bdbbe3dfe48b58d59bd5f1fb.svg
+public/assets/js/ajax_bill.js
+public/assets/js/ajax_info.js
+public/assets/js/ajax_tariffs.js
+public/assets/js/index.html
+public/assets/js/monthly_dashboard.js
+public/assets/js/monthly_unsent.js
+public/assets/js/receipts.js
+tmp
+.env.local
+.env.*.local
+.env
