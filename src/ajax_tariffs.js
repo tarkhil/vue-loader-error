@@ -1,11 +1,11 @@
 import Vue from 'vue';
 import store from './store';
-//import CloseTariff from './components/CloseTariff.vue'
+import CloseTariff from './components/CloseTariff.vue'
 
 var app = new Vue({
     store,
     components: {
-//	CloseTariff
+	CloseTariff
     },
     beforeCreate() {
 	console.log('before create');
